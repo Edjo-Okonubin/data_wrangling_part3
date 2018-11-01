@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541096983904.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "719323051",
+    "id" : "A1529CC9",
+    "lastKnownWriteTime" : 1541105288,
+    "last_content_update" : -2147483648,
+    "path" : "~/Data Science Projects/data_wrangling_part3/basic_row_filters.R",
+    "project_path" : "basic_row_filters.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

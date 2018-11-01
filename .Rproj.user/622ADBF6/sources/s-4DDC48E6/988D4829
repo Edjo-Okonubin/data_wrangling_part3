@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541102890244.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "988D4829",
+    "lastKnownWriteTime" : 1541105309,
+    "last_content_update" : -2147483648,
+    "path" : "~/Data Science Projects/data_wrangling_part3/filtering_across_multiple_columns.R",
+    "project_path" : "filtering_across_multiple_columns.R",
+    "properties" : {
+        "cursorPosition" : "3,46",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
